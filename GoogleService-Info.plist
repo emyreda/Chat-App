@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>158391847158-hjs4baiqrtat3qerf16rn1us3r5svha3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.158391847158-hjs4baiqrtat3qerf16rn1us3r5svha3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxQWVciwuXAIE-1_mzvc1hwUVQ_CEMeGc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>158391847158</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>eman.ChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chating-b1cc8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chating-b1cc8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:158391847158:ios:7057d7c9bb955f32</string>
+	<key>DATABASE_URL</key>
+	<string>https://chating-b1cc8.firebaseio.com</string>
+</dict>
+</plist>
